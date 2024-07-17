@@ -1,0 +1,22 @@
+[
+        {
+            "id": 1,
+            "name": "Queen",
+            "genre": "Rock"
+        },
+        {
+            "id": 2,
+            "name": "The Eagles",
+            "genre": "Rock"
+        },
+        {
+            "id": 3,
+            "name": "Ed Sheeran",
+            "genre": "Pop"
+        },
+        {
+            "id": 4,
+            "name": "Taylor Swift",
+            "genre": "Pop"
+        }
+]

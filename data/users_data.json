@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "username": "test_user",
+        "password": "$2b$12$.s6e3vRrnxxrQvYeWqi/1OS9wFgmX4h8cVkrcjOGplwlTAO7NFZfC",
+        "type": "free"
+    },
+    {
+        "id": 2,
+        "username": "test_user2",
+        "password": "$2b$12$ss5w6zV/BLlnD/cX.bldd.CxPfnxL0N7S5iNCriKlAFKImVDV6KTS",
+        "type": "premium"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "My First Playlist",
+        "owner_id": 1,
+        "song_ids": [
+            12,
+            25
+        ]
+    }
+]
